@@ -7,7 +7,7 @@ weblio_uwl2csv
 
 ![uwl](./images/uwl.png)
 
-2. [index.js](./index)のコードをコピーしてdevToolsを開いてconsoleタブを開きます。ペーストして実行します。
+2. [index.js](./index.js)のコードをコピーしてdevToolsを開いてconsoleタブを開きます。ペーストして実行します。
 
 ![devtools](./images/devtools.png)
 
